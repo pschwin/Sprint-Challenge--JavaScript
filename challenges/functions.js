@@ -45,6 +45,8 @@ function greeting(first, last){
 
 // Explanation: 
 
+//In the simplest of terms, the Function nestedFunction() and the variable 'internal' lies within the scope of the myFunction Object. 
+
 
 const external = "I'm outside the function";
 
